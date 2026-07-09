@@ -1,16 +1,20 @@
-## Hi there 👋
+# Sai Ganesh Muthukumar
 
-<!--
-**saiganeshm093/saiganeshm093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Analyst | AI-Enabled Change | Regulated Financial Services**
 
-Here are some ideas to get you started:
+4 years delivering full-lifecycle change across FCA-regulated financial
+services; most recently 20 months inside an FCA-mandated remediation
+programme at Barclays UK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now building at the intersection of business analysis and generative AI:
+LLM workflow automations, AI requirements engineering, and the governance
+that regulated environments demand.
+
+### Current builds
+- **LLM document-generation pipeline** — Node.js + Claude API; tailored .docx output at volume *(repo coming this week)*
+- **Requirements-extraction assistant** — meeting transcripts to structured user stories with acceptance criteria *(in development)*
+
+### Currently learning
+Prompt engineering · RAG · EU AI Act & FCA approach to AI · Microsoft AI-900
+
+📍 UK ·[ [LinkedIn] (https://www.linkedin.com/in/sai-ganesh-muthukumar/) · [Portfolio](https://unimad.ai/portfolio/saiganeshmuthukumar)
