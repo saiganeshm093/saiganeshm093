@@ -11,8 +11,8 @@ LLM workflow automations, AI requirements engineering, and the governance
 that regulated environments demand.
 
 ### Current builds
-- **LLM document-generation pipeline** — Node.js + Claude API; tailored .docx output at volume *(repo coming this week)*
-- **Requirements-extraction assistant** — meeting transcripts to structured user stories with acceptance criteria *(in development)*
+- **LLM document-generation pipeline** — Node.js + Claude API; tailored .docx output at volume 
+- **Requirements-extraction assistant** — meeting transcripts to structured user stories with acceptance criteria 
 
 ### Currently learning
 Prompt engineering · RAG · EU AI Act & FCA approach to AI · Microsoft AI-900
