@@ -16,4 +16,4 @@ that regulated environments demand.
 ### Currently learning
 Prompt engineering · RAG · EU AI Act & FCA approach to AI · Microsoft AI-900
 
-📍 UK ·[ [LinkedIn] (https://www.linkedin.com/in/sai-ganesh-muthukumar/) · [Portfolio](https://unimad.ai/portfolio/saiganeshmuthukumar)
+📍 UK ·(https://www.linkedin.com/in/sai-ganesh-muthukumar/) · [Portfolio](https://unimad.ai/portfolio/saiganeshmuthukumar)
